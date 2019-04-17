@@ -2,8 +2,10 @@
 Complementary work for A formal proof of the Four Color Theorem
 
 # Breakdown of the Presentation
+
 # Background History
-In 1852 Francis Guthrie observed that the countries of England could be colored with four colors so that neighboring countries were colored differently. Francis Guthrie  (from the  book p. 260)
+(Open your book to page 260)
+In 1852 Francis Guthrie observed that the countries of England could be colored with four colors so that neighboring countries were colored differently. Francis Guthrie showed his brother who in turn showed De Morgan the initial 4 color theorem on 10/23/1852. De Morgan was excited while Hamilton was not, and interest died down in the Four Color Theorem. Till 1878, when Alfred Bray Kempe picked up the four colored theorem. He published his work in 1879 in the second edition of the American Journal of Mathematics. In his approach he used the concept of Kempe Chains, which is a connected chain of points on the graph (See Page 263 in your book).
 
   Define Problem 
   ---
