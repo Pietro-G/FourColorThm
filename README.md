@@ -7,7 +7,11 @@ In 1852 Francis Guthrie observed that the countries of England could be colored 
 
   Define Problem 
   ---
+  The four color theorem states that any seperation of a plane into contigous regions, also known as a "Map" can be colored using at most four colors where the regions in our graph G would only be considered adjacent if two regions share border (not just a point).
   
+  Defining it in the scope of graph thoery, given a map, where the states represent vertices, can be mapped to a planar graph where no two adjacent vertices receive the same color. Such plane graph can be acheived with at most 4 colors and is therefore 4 colorable. 
+  
+  The mapping can be easily done by replacing every region by a vertex and connecting two vertices by an edge exactly when the two regions share a border. 
   
 # Use a Map -> confer it to a Graph
 
